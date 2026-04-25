@@ -11,14 +11,14 @@ An end-to-end data engineering project on Databricks demonstrating a complete an
 
 ## About the Author
 
-**Malvik Vaghadia** - Data Engineering Instructor & Consultant
+**SaiKiran Ponnada** - Data Engineering Instructor & Consultant
 
-- [LinkedIn](https://www.linkedin.com/in/malvik-vaghadia/)
+- [LinkedIn](https://www.linkedin.com/in/saikiran-ponnada-56048b42/)
 
 
 ### Databricks Courses on Udemy
 
-If you're looking to deepen your Databricks knowledge, check out my courses:
+If you're looking to deepen your Databricks knowledge, check out relevant courses:
 
 - [CI/CD with Databricks Asset Bundles](https://www.udemy.com/course/cicd-with-databricks-asset-bundles/?referralCode=D7CC9D7AF4003300A457)
 - [Azure Databricks and Spark SQL Python](https://www.udemy.com/course/azure-databricks-and-spark-sql-python/?referralCode=C61A322D26568C4E5755)
